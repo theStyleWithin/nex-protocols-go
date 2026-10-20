@@ -1,8 +1,6 @@
 module github.com/PretendoNetwork/nex-protocols-go/v2
 
-go 1.22.0
-
-toolchain go1.23.4
+go 1.24
 
 require (
 	github.com/PretendoNetwork/nex-go/v2 v2.1.0
@@ -13,7 +11,7 @@ require (
 	github.com/dolthub/maphash v0.1.0 // indirect
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/jwalton/go-supportscolor v1.2.0 // indirect
-	github.com/klauspost/compress v1.17.11 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/lxzan/gws v1.8.8 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
